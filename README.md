@@ -18,7 +18,7 @@ This is a Discord bot designed to manage voice channels. It moves users to desig
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/WOLFERSER/VasilisaBot.git
     cd yourrepository
     ```
 
